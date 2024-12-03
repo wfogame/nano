@@ -1,6 +1,6 @@
 {
     "name": "Nano",
-    "start_url": "/",
+    "start_url": "https://google.com",
     "lang": "en-US",
     "display": "standalone",
     "background_color": "#1e1e2e",
